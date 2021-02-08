@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Remove onCopy
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  remove event listeners from edit field
 // @author       You
-// @match        https://lunis.liber.se/lr/lektion/*
+// @match        https://lunis.liber.se/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // ==/UserScript==
